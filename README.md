@@ -1,5 +1,5 @@
-### Hi there 👋
-## **About me**
+## Hi there 👋
+### **About me**
 > **A motivated data scientist/machine learning engineer with hands-on experience in the ETL process, data collection, exploratory data analysis, predictive modeling with testing, and model evaluation.**
 
 * **Programming and Scripting Languages**: Python, R.

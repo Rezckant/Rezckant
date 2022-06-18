@@ -5,4 +5,4 @@
 * **Programming and Scripting Languages**: Python, R.
 * **Databases**: SQL Server, MySQL, SQLite.
 * **Data Science and Analysis Libraries**: Keras, Tensorflow, Optuna, Pandas, Numpy, Matplotlib, Seaborn, Plotly, SciPy, Scikit-Learn (and others).
-* **Tools**: AWS(Spark), Tableau, Git and GitHub, VSCode, Jupyter Notebook and JupyterLab, Spyder IDE, Google colab.
+* **Tools**: AWS, Spark, Tableau, Git and GitHub, VSCode, Jupyter Notebook and JupyterLab, Spyder IDE, Google colab.
